@@ -1,4 +1,6 @@
-# React + Vite
+# React + Redux = CRUD
+
+I created this repo for learning about react redux
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
